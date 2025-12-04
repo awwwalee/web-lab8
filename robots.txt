@@ -1,0 +1,11 @@
+# Файл robots.txt для учебного сайта
+# Для локального просмотра
+
+User-agent: *
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /config/
+Allow: /
+
+# При публикации на хостинге добавим:
+# Sitemap: https://example.com/sitemap.xml
