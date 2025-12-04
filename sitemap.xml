@@ -3,7 +3,7 @@
     
     <!-- Главная страница -->
     <url>
-        <loc>index.html</loc>
+        <loc>https://awwwalee.github.io/web-lab8/</loc>
         <lastmod>2024-12-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -11,7 +11,7 @@
     
     <!-- Страница "О себе" -->
     <url>
-        <loc>about.html</loc>
+        <loc>https://awwwalee.github.io/web-lab8/about.html</loc>
         <lastmod>2024-11-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -19,7 +19,7 @@
     
     <!-- Страница "Портфолио" -->
     <url>
-        <loc>portfolio.html</loc>
+        <loc>https://awwwalee.github.io/web-lab8/portfolio.html</loc>
         <lastmod>2024-11-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
